@@ -9,7 +9,7 @@ package proyectomemorama;
  *
  * @author Nacho
  */
-public class Logica {
+public class otra {
      public int[] getCardNumbers() {
         throw new UnsupportedOperationException("Not supported yet.");
 }
